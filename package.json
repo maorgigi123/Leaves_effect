@@ -1,0 +1,11 @@
+{
+  "name": "leaves_effect",
+  "version": "1.0.0",
+  "description": "Leaves effect using html css and js",
+  "main": "script.js",
+  "scripts": {
+    "test": "live-server"
+  },
+  "author": "",
+  "license": "ISC"
+}
